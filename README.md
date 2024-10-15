@@ -4,8 +4,6 @@ Latitude-GDP-Education Analysis
 This project analyzes the relationship between geographic latitude, GDP per capita, and tertiary education enrollment across various countries. The goal is to uncover how proximity to the equator influences both economic performance and education levels globally.
 
 Project Structure
-markdown
-Copy code
 - data/
   - `Countries Position.csv`: Geographic information including latitude for each country.
   - `GDP per Capita.csv`: GDP data for countries from 2014 to 2023.
@@ -13,6 +11,7 @@ Copy code
   - `Population per Country.csv`: Population data for countries.
 - `Analysis GDP and Education to Distance from Equator.ipynb`: Jupyter notebook containing the full analysis.
 - `README.md`: Documentation for the project.
+
 Installation and Setup
 To run this project locally, follow these steps:
 
