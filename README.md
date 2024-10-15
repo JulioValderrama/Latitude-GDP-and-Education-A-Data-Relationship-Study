@@ -31,7 +31,7 @@ Copy code
 3. **Install the necessary dependencies**:
 Copy code
 ```bash
-pip install pandas matplotlib seaborn
+pip install pandas statsmodels seaborn matplotlib numpy
 ```
 
 4. **Open the Jupyter notebook**:
